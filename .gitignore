@@ -1,0 +1,392 @@
+<!DOCTYPE html> 
+<html>
+<head>
+<meta charset="utf-8">
+<title>CORARIO IPUC Castilla</title>
+<link href="jquery-mobile/jquery.mobile-1.0.min.css" rel="stylesheet" type="text/css"/>
+<style type="text/css">
+body {
+  background-image: url();
+}
+</style>
+<script src="jquery-mobile/jquery-1.6.4.min.js" type="text/javascript"></script>
+<script src="jquery-mobile/jquery.mobile-1.0.min.js" type="text/javascript"></script>
+</head> 
+<body>
+
+<div data-role="page" id="page">
+	<div data-role="header">
+		<h1>CORARIO IPUC CASTILLA</h1>
+	</div>
+	<div data-role="header">
+		<h1>A</h1>
+	</div>
+	<div data-role="content">	
+		<ul data-role="listview">
+            <li><a href="#page2">500 grados</a></li>
+            <li><a href="#page3">A cada instante</a></li>
+            <li><a href="#page4">A el alto y sublime</a></li>
+            <li><a href="#page5">A quién iré</a></li>
+            <li><a href="#page6">A Ti atribuimos</a></li>
+            <li><a href="#page7">A Ti clamé y me sanaste</a></li>
+            <li><a href="#page8">A Ti el Alfa y la Omega</a></li>
+            <li><a href="#page9">A Ti Jesús cantamos</a></li>
+            <li><a href="#page10">Abre mis ojos oh Cristo</a></li>
+            <li><a href="#page11">Aclamad a Dios</a></li>
+            <li><a href="#page12">Acuérdate</a></li>
+            <li><a href="#page13">Ahora mismo, Señor</a></li>
+            <li><a href="#page14">Al estar aquí reunidos</a></li>
+            <li><a href="#page15">Al estar en la presencia</a></li>
+            <li><a href="#page16">Al que debo</a></li>
+            <li><a href="#page17">Al que vive por los siglos</a></li>
+            <li><a href="#page18">Alaba a Dios</a></li>
+            <li><a href="#page19">Alabad a Jehová</a></li>
+            <li><a href="#page20">Alabamos a Jehová</a></li>
+            <li><a href="#page21">Alabaré</a></li>
+            <li><a href="#page22">Aleluya, aleluya</a></li>
+            <li><a href="#page23">Aleluya</a></li>
+            <li><a href="#page24">Algo está cayendo aquí</a></li>
+            <li><a href="#page25">Algo está descendiendo</a></li>
+            <li><a href="#page26">Alquien está aquí</a></li>
+            <li><a href="#page27">Alguien necesita aquí</a></li>
+            <li><a href="#page28">Alza tus ojos y mira</a></li>
+            <li><a href="#page29">Ama si quieres ser feliz</a></li>
+            <li><a href="#page30">Amante de Ti</a></li>
+            <li><a href="#page31">Amigo ideal</a></li>
+            <li><a href="#page32">Amo a mi Dios</a></li>
+            <li><a href="#page33">Amor inmensurable</a></li>
+            <li><a href="#page34">Aprendí a vivir</a></li>
+            <li><a href="#page35">Aquel fuego que cayó</a></li>
+            <li><a href="#page36">Aquí en esta Iglesia</a></li>
+            <li><a href="#page37">Aquí está el poderoso</a></li>
+            <li><a href="#page38">Aquí estoy</a></li>
+            <li><a href="#page39">Aquí se canta</a></li>
+            <li><a href="#page40">Aquí se siente la presencia de Dios</a></li>
+            <li><a href="#page41">Ardiendo en fuego</a></li>
+            <li><a href="#page42">Así como David danzaba</a></li>
+            <li><a href="#page43">Aunque otros canten</a></li>
+            <li><a href="#page44">Aunque tenga que cruzar</a></li>
+            <li><a href="#page45">Aunque un ejército</a></li>
+            <li><a href="#page46">Avívame</a></li>
+		</ul>
+	</div>
+	<div data-role="header">
+		<h1>B</h1>
+	</div>
+	<div data-role="content">	
+		<ul data-role="listview">
+			<li><a href="#page47">Basta que me toques</a></li>
+			<li><a href="#page48">Bautízame</a></li>
+			<li><a href="#page49">Bendeciré a Jehová</a></li>
+			<li><a href="#page50">Bendito sea el Señor</a></li>
+			<li><a href="#page51">Bueno es alabarte Jehová</a></li>
+			<li><a href="#page52">Bueno es alabarte Señor</a></li>
+			<li><a href="#page53">Busca la bendición de Dios</a></li>
+		</ul>		
+	</div>
+    	<div data-role="header">
+		<h1>C</h1>
+	</div>
+	<div data-role="content">	
+		<ul data-role="listview">
+						<li><a href="#page54">Cada día me siento más alegre</a></li>
+			<li><a href="#page55">Cansado del camino</a></li>
+			<li><a href="#page56">Cantad a Jehová</a></li>
+			<li><a href="#page57">Cantad con gozo</a></li>
+			<li><a href="#page58">Cantaré de tu amor</a></li>
+			<li><a href="#page59">Cántico nuevo cantaré a Jehová</a></li>
+			<li><a href="#page60">Celebrad a Cristo celebrad</a></li>
+			<li><a href="#page61">Celebremos y adoremos</a></li>
+			<li><a href="#page62">Cerca de Ti</a></li>
+			<li><a href="#page63">Cercano está Jehová</a></li>
+			<li><a href="#page64">Clamando estoy</a></li>
+			<li><a href="#page65">Como el ciervo</a></li>
+			<li><a href="#page66">Cómo he de expresar</a></li>
+			<li><a href="#page67">Como la brisa</a></li>
+			<li><a href="#page68">Con gratitud</a></li>
+			<li><a href="#page69">Con manos vacías</a></li>
+			<li><a href="#page70">Con mi Dios yo asaltaré los muros</a></li>
+			<li><a href="#page71">Con mis manos levantadas</a></li>
+			<li><a href="#page72">Con mis ojos te veré</a></li>
+			<li><a href="#page73">Con óleo de alegría</a></li>
+			<li><a href="#page74">Conozco que todo lo puedes</a></li>
+			<li><a href="#page75">Consume con tu fuego</a></li>
+			<li><a href="#page76">Cristo es la peña de Horeb</a></li>
+			<li><a href="#page77">Cristo es mi Señor</a></li>
+			<li><a href="#page78">Cristo ha mandado</a></li>
+			<li><a href="#page79">Cristo me dijo</a></li>
+			<li><a href="#page80">Cristo no está muerto</a></li>
+			<li><a href="#page81">Cristo nuestro Rey</a></li>
+			<li><a href="#page82">Cristo rompe las cadenas</a></li>
+			<li><a href="#page83">Cristo vive</a></li>
+			<li><a href="#page84">Cuán gloriosa será la mañana</a></li>
+			<li><a href="#page85">Cuando Cristo vino</a></li>
+			<li><a href="#page86">Cuando el pueblo alaba a Dios</a></li>
+			<li><a href="#page87">Cuando Faraón</a></li>
+			<li><a href="#page88">Cuando Jesús caminaba</a></li>
+			<li><a href="#page89">Cuando perdido yo me hallaba</a></li>
+			<li><a href="#page90">Cuando pienso en lo lindo</a></li>
+			<li><a href="#page91">Cuando pienso en tu santidad</a></li>
+			<li><a href="#page92">Cuando pronuncio</a></li>
+			<li><a href="#page93">Cuando vega de los cielos</a></li>
+			<li><a href="#page94">Cuánto te amo</a></li>
+		</ul>		
+	</div>
+    
+	<div data-role="footer">
+		<h4>«Todo lo que respire alabe a Jehová»</h4>
+	</div>
+</div>
+
+<div data-role="page" id="page2">
+	<div data-role="header">
+		<h1>500 GRADOS</h1>
+	</div>
+	<P ALIGN=center><FONT FACE="georgia">
+		
+        Una lluvia diferente ahora está inundando en el cielo,<br>
+        Tormenta de bendición y poder,<br>
+        Un calor tan glorioso invade toda la iglesia<br>
+        500 grados de puro fuego santo y poder,<br>
+        Para hacer enfermedades desaparecer,<br>
+        Para hacer al enemigo huir de ti.<br>
+        <br>
+        //Una nube de victoria invade toda la iglesia,<br>
+        La predicción de Dios dice que va a llover,<br>
+        Va a llover lenguas de fuego por todos los lados<br>
+        Y de esta bendición quiero salir mojado,<br>
+        Mojado y revestido por ese poder,<br>
+        Ahora lo imposible va a acontecer.<br>
+        <br>
+        Es la promesa de Dios,<br>
+        El fuego va a caer por ese poder<br>
+        Es la promesa de Dios,<br>
+        El fuego va a caer por ese poder.<br>
+        <br>        
+        Ya comienza a acontecer,<br>
+        Bajo de esta lluvia puedo contemplar,<br>
+        Aleluya de aquí, gloria, aleluya de allá,<br>
+        Inundando a los hermanos bendición en las manos,<br>
+        Veo millares de ángeles viniendo en un inmenso trueno.<br>
+		<br>        
+        De este lado hay poder;<br>
+        De este lado hay victoria;<br>
+        Aquí al frente hay hermanos<br>
+        Siendo bautizados, dando gloria;<br>
+        Aquí en el medio fuego cae,<br>
+        Toda enfermedad no resiste y sale<br>
+        Por el santo nombre de Jesús.<br>
+		<br>
+        Una nube diferente ahora está inundando esta iglesia,<br>
+        Tormenta de bendición y poder,<br>
+        Un calor tan glorioso está quemando el pecado,<br>
+        Destruyendo todo lo que te aflige,<br>
+        500 grados de puro fuego santo y poder,<br>
+        Y ya hizo enfermedades desaparecer,<br>
+        Y ya hizo al enemigo huir de ti//<br>
+		<br>       
+        500 grados de puro fuego santo y poder.
+	</FONT><p>
+	</div>
+
+<div data-role="page" id="page3">
+	<div data-role="header">
+		<h1>A CADA INSTANTE</h1>
+	</div>
+	<P ALIGN=center><FONT FACE="georgia">
+        //Señor yo quiero construir<br>
+        una habitación y vivir junto a Ti,<br>
+        Señor en suprema adoración,<br>
+        aquí está mi corazón que te quiere adorar//<br>
+        <br>
+        //A cada instante de mi vida yo te agradeceré,<br>
+        a cada instante de mi vida siempre te exaltaré,<br>
+        a cada instante de mi vida siempre te amaré Señor//
+	<p></FONT>
+   </div>
+
+<div data-role="page" id="page4">
+	<div data-role="header">
+		<h1>A EL ALTO Y SUBLIME</h1>
+	</div>
+	<P ALIGN=center><FONT FACE="georgia">
+        A el alto y sublime que habita la eternidad<br>
+        Y su nombre es el santo de Israel.<br>
+        Al que habita en las alturas y en la santidad,<br>
+        Con el quebrantado y humilde de espíritu.<br>
+        Para hacer vivir el espíritu humilde<br>
+        Y para vivificar el corazón quebrantado.<br>
+        <br>
+        //Sea la gloria, honor, alabanza y poder,<br>
+        Al que reina por los siglos y su nombre Santo es//
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page5">
+	  <div data-role="header">
+	    <h1>A QUIÉN IRÉ</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+	A quién iré en necesidad,<br>
+    A quién iré en busca de paz<br>
+    Y quién podrá mi vida saciar de verdad.<br>
+	<br>
+    Quién más tendrá de mi compasión<br>
+    Y entenderá mi corazón,<br>
+    Quién cambiará mi eternidad sino Tú, Jesús.<br>
+    <br>
+    Cristo a dónde más podría ir,<br>
+    Cristo qué otro lugar puede existir,<br>
+    Sólo Tú tienes palabras de amor,<br>
+    Camino al padre y verdad eres Tú
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page6">
+	<div data-role="header">
+	    <h1>A TI ATRIBUIMOS</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+        A Ti atribuimos la gloria,<br>
+        A Ti atribuimos la honra,<br>
+        A Ti atribuimos poder y majestad,<br>
+        Santo es el Señor
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page7">
+	<div data-role="header">
+	    <h1>A TI CLAMÉ Y ME SANASTE</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+		A ti clamé y me sanaste,<br>
+		por eso te glorificaré,<br>
+		Eres Santo recibe adoración.<br>
+		<br>
+		Busqué a Jehová y Él me oyó,<br>
+		Bendito sea el nombre de Dios,<br>
+		Él es digno de mi adoración.<br>
+		<br>
+		Jehová es mi fortaleza y escudo,<br>
+		Él es mi Roca y mi castillo,<br>
+		Él es Santo, Él es digno.<br>
+		<br>
+		Lámpara es tu palabra<br>
+		Y lumbrera a mi camino, <br>
+		Él es santo, Él es…<br>
+		<br>
+		//Santo, digno,<br>
+		Él es santo, Él es digno,<br>
+		Él es Dios//
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page8">
+	<div data-role="header">
+	    <h1>A TI EL ALFA Y LA OMEGA</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+        A Ti, el alfa y la omega,<br>
+        El principio y el fin y el gran Yo Soy,<br>
+        Me rindo…<br>
+        <br>
+        A Ti, el Todopoderoso,<br>
+        El que es y el que será y el gran Yo Soy,<br>
+        Me entrego…<br><br>
+        Yo quiero que gobiernes mi vida,<br>
+        Me doy en sacrificio a Ti,<br>
+        Yo quiero que Tú ordenes mi caminar,<br>
+        Que siempre viva en tu voluntad.
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page9">
+	<div data-role="header">
+	    <h1>A TI JESÚS CANTAMOS</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+        //A Ti Jesús cantamos hoy sólo a Ti//<br>
+        Levantamos nuestras voces<br>
+        Y nuestras manos como ofrenda de amor,<br>
+        Recibe hoy nuestra ofrenda de amor.
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page10">
+	<div data-role="header">
+	    <h1>ABRE MIS OJOS OH CRISTO</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+        Abre mis ojos oh Cristo,<br>
+        Abre mis ojos te pido,<br>
+        //Yo quiero verte//<br>
+        <br>
+        //Y contemplar tu majestad<br>
+        Y el resplandor de tu gloria,<br>
+        Derrama tu amor y poder,<br>
+        Cuando cantamos: santo, santo//<br>
+        <br>
+        ///Santo, Santo, Santo///<br>
+        Yo quiero verte.
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page11">
+	<div data-role="header">
+	    <h1>ACLAMAD A DIOS</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+//Aclamad a Dios con alegría toda la tierra,<br>
+Cantad la gloria de su nombre//<br>
+<br>
+Poned gloria en su alabanza,<br>
+decidle a Dios: ///¡Cuán asombrosas son tus obras!///<br>
+<br>
+//Toda la tierra te adorará,<br>
+Toda la tierra canta a tu nombre//
+	</FONT><p>
+</div>
+
+<div data-role="page" id="page12">
+	<div data-role="header">
+	    <h1>ACUÉRDATE</h1>
+      </div>
+	<P ALIGN=center><FONT FACE="georgia">
+Acuérdate cuando tú eras nadie,<br>
+Acuérdate que andabas con la muerte,<br>
+Acuérdate que pasaron los años,<br>
+//Pero tú sigues vivo//<br>
+Porque Cristo te ama.<br>
+<br>
+Acuérdate que no estás derribado,<br>
+Acuérdate que no estás destruido,<br>
+Acuérdate todo lo puedo en Cristo,<br>
+//Comienza de nuevo//<br>
+Porque Cristo te ama.<br>
+<br>
+Acuérdate cuando andabas sufriendo,<br>
+Acuérdate quién te extendió la mano,<br>
+Acuérdate, no te olvides de Cristo<br>
+Porque si no es por Él…<br>
+Ya estuviéramos muertos
+	</FONT><p>
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+</body>
+</html>
